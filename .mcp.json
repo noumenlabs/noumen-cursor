@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "noumen": {
+      "type": "http",
+      "url": "https://www.noumen.xyz/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${NOUMEN_API_KEY:-}"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "noumen": {
+      "url": "https://www.noumen.xyz/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:NOUMEN_API_KEY}"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "noumen",
+  "version": "1.0.0",
+  "description": "Live on-chain data and a second-opinion model router for your coding agent. 22 free tools for tokens, wallets and chains on Solana, Ethereum, Base, BNB Chain and Robinhood Chain, and for tokenized stocks and real-world assets, with no key needed. Add a Noumen API key to ask or compare Noumen's AI models about your code.",
+  "author": {
+    "name": "Noumen",
+    "url": "https://www.noumen.xyz"
+  },
+  "homepage": "https://www.noumen.xyz",
+  "repository": "https://github.com/noumenlabs/noumen-cursor",
+  "license": "MIT",
+  "keywords": ["mcp", "onchain", "crypto", "token-analysis", "tokenized-stocks", "code-review", "second-opinion"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "noumen",
+  "description": "Noumen: live on-chain data, tokenized stocks and a second-opinion model router for coding agents.",
+  "owner": {
+    "name": "Noumen",
+    "url": "https://www.noumen.xyz"
+  },
+  "plugins": [
+    {
+      "name": "noumen",
+      "source": "./",
+      "description": "Live on-chain data, tokenized stocks and a second-opinion model router for your coding agent."
+    }
+  ]
+}
